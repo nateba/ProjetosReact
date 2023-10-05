@@ -1,0 +1,22 @@
+.header {
+    background: var(--gray-800);
+    display: flex;
+    justify-content: center;
+    padding: 1.25rem 0;
+    height: 80px;
+    gap: 0.5rem;
+}
+
+.header img {
+    height: 2rem;
+}
+
+.header strong {
+    display: flex;
+    align-items: center;
+}
+
+.header2 {
+    color: red;
+    background-image: linear-gradient(to right, #00B37E, #00875f);
+}
